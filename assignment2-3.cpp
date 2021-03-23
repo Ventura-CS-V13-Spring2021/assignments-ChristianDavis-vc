@@ -23,16 +23,21 @@ switch (selection)
   case 'A':
     cout << "your choice is A";
     break;
-  case 2: 
+//  case 2: 
+  case 'b':
+  case 'B':
     cout << "your choice is B";
     break;
-  case 3: 
+//  case 3: 
+  case 'c':
+  case 'C':
     cout << "your choice is C";
     break;
   default:
     cout << "unknown choice";
  }
 
-
+return 0;
+}
 
 
