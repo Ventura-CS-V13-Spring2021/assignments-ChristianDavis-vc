@@ -1,17 +1,10 @@
 #include <iostream>
-#include <string>
+
 using namespace std;
-
-
-struct studentForm
-{
-  
-}
 
 
 int main()
 {
-
-
+for(int studentName1, studentName2, studentName3)
 return 0;
 } 
