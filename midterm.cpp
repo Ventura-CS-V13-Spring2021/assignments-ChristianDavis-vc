@@ -1,5 +1,12 @@
 #include <iostream>
+#include <string>
 using namespace std;
+
+
+struct studentForm
+{
+  
+}
 
 
 int main()
@@ -7,4 +14,4 @@ int main()
 
 
 return 0;
-}
+} 
